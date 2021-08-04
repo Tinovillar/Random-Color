@@ -42,3 +42,15 @@ html {
     font-size: 1.7rem;
     font-weight: bold;
 }
+
+tr {
+    text-align: center;
+}
+
+#table {
+    width: 20%;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: black 4px solid;
+    background-color: white;
+}
